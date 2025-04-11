@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/about", "dest": "/about" },
+    { "src": "/book", "dest": "/book" },
+    { "src": "/services", "dest": "/services" },
+    { "src": "/contact", "dest": "/contact" },
+    { "src": "/thank-you", "dest": "/thank-you" },
+    { "handle": "filesystem" }
+  ]
+} 
